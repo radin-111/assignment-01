@@ -175,3 +175,28 @@
     padding: 0;
     
 }
+.donac{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
+.dtaka{
+    font-weight: bold;
+    font-size: 40px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    padding: 40px;
+    
+}
+.dondes{
+    text-align: center;
+    color: rgba(14, 14, 14, 0.7);
+}
+.donate-h{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+.dtaka:hover{
+    background-color: #C6E4D6;
+}
