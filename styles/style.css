@@ -10,6 +10,10 @@
   }
 .padm{
     margin: 80px 160px;
+    
+}
+.ccc{
+    background-color: #F1F1F3;
 }
 .banner{
     display: flex;
@@ -99,4 +103,74 @@
     margin-bottom: 48px;
 
 
+}
+.dryunus{
+   
+    background-color: #FFFFFF;
+    background-image: url('../assets/quote-bg.png');
+    background-repeat: no-repeat;
+    background-position-x: 7mm;
+    background-position-y: 11mm;
+    /* display: flex; */
+    padding: 48px 24px;
+    border-radius: 16px;
+}
+
+.yt{
+    font-weight: 600;
+    font-size: 20px;
+    color: rgba(14, 14, 14, 0.8);
+}
+.yp{
+    color: rgba(14, 14, 14, 0.8);
+}
+#pp{
+    color: rgba(14, 14, 14, 0.6);
+    padding-top: 12px;
+    padding-bottom: 4px;
+}
+.pic{
+    border-radius: 24px;
+}
+.catit{
+    font-weight: bold;
+    font-size: 32px;
+}
+.cf , .cs {
+    display: flex;
+    margin-top: 24px;
+    background-color: #FFFFFF;
+    border-radius: 24px;
+    gap: 32px;
+}
+.date-c{
+    color: rgba(14, 14, 14, 0.7);
+}
+.picf{
+    border-radius: 24px ;
+    padding: 48px 0 48px 48px;
+    
+}
+.pics{
+    width: 408px;
+    padding: 48px  48px 48px 0px;
+}
+.cff{
+    padding:56px 0px 56px 48px ;
+}
+.pcommon{
+    color: rgba(14, 14, 14, 0.7);
+}
+.btn-c{
+    border-radius: 8px;
+    background-color: #006A50;
+    color: #FFFFFF;
+    padding: 13px 26px;
+    font-weight: 600;
+    font-size: 18px;
+}
+#ppp{
+    color: rgba(14, 14, 14, 0.6);
+    padding: 0;
+    
 }
