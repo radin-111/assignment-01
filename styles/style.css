@@ -200,3 +200,32 @@
 .dtaka:hover{
     background-color: #C6E4D6;
 }
+
+.ipn{
+    
+    padding: 20px 422px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    
+    font-size: 20px;
+    color: rgba(14, 14, 14, 0.3);
+}
+.donate{
+    text-align: center;
+    margin-bottom: 80px;
+}
+.snews{
+    padding: 80px 265px;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    
+}
+.snwesc{
+    text-align: center;
+
+}
+.title{
+    font-weight: bold; 
+    font-size: 40px;
+    margin: 16px;
+}
