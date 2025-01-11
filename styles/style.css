@@ -229,3 +229,42 @@
     font-size: 40px;
     margin: 16px;
 }
+.lastin{
+    
+    padding: 18px 403px 18px 40px;
+    margin-top: 24px;
+    margin-bottom: 32px;
+    
+    font-size: 20px;
+    color: rgba(14, 14, 14, 0.3);
+    border-radius: 8px  0 0 8px;
+}
+.uilas{
+    display: flex;
+    gap:0;
+}
+
+.child1{
+    display: flex;
+    
+}
+.lastbtn{
+    width: 150px;
+    height: 63px;
+    margin-top: 24px;
+    padding: 17px 34px;
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+    background-color: #006A50;
+    border-radius: 0 8px 8px 0;
+}
+.last{
+    margin: 0%;
+    background-color: #FFFFFF;
+}
+.ltt{
+    
+    padding: 50px;
+    text-align: center;
+}
